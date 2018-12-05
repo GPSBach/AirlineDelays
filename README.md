@@ -11,4 +11,4 @@ Using the [National Weather Services Rapid Refresh model](https://www.ncdc.noaa.
 This code is currently under development
 * ./data - data used to train the classifiers (largely not backed up on GitHub due to file size).
 * ./development - Python3 jupyter notebooks used to build the models and organize the data
-* ./src - distribution ready code
+* ./src - distribution ready(ish) code
