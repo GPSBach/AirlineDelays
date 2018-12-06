@@ -1,3 +1,5 @@
+test*.png
+*.mov
 *.ipynb_checkpoints*
 *.grb2
 *.pkl
