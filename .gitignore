@@ -1,3 +1,6 @@
+*.mov
+*.jpg
+*.png
 test*.png
 *.mov
 *.ipynb_checkpoints*
